@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Tags 
-
 ---
-
 <div class="page-content wc-container">
 	<div class="post">
 		<h1>Tags</h1>  

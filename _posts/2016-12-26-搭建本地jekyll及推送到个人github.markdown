@@ -36,7 +36,7 @@ ruby dk.rb init
 
 运行结束后会在DevKit的根目录下生成一个配置文件 config.yml，里面会包含之前安装ruby的路径（理论上是这样，但是我执行之后并没有ruby的路径，ruby的安装路径是我手动添加上去的）
 
-![](/assets/images/2016-12-26-1.png)
+![](/images/2016-12-26-1.png)
 
 接下来运行ruby dk.rb install。运行成功之后。就可以运行 gem install jekyll 来安装jekyll了(在创建过程中可能会出现缺少一些依赖文件的错误，按照提示安装上即可)
 
@@ -45,15 +45,15 @@ ruby dk.rb init
 
 安装jekyll成功后，选择一个要创建站点的目录，中运行 jekyll new _filename_ ,创建文件成功
 
-![](/assets/images/2016-12-26-2.png)
+![](/images/2016-12-26-2.png)
 
 进入到刚刚创建的文件中，运行站点，出现下图提示后，运行成功
 
-![](/assets/images/2016-12-26-3.png)
+![](/images/2016-12-26-3.png)
 
 OK！创建成功，可以根据[文档][jekyll-docs]进行对站点的修改了
 
-![](/assets/images/2016-12-26-4.png)
+![](/images/2016-12-26-4.png)
 
 ## [](#header-2)推送到远程github库中
 

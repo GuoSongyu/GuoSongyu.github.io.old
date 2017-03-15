@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017-03-15-thinkphp中对ip的限制"
+title:  "thinkphp中对ip的限制"
 date:   2017-03-15 21:48:40 +0800
 tags: 杂谈
 ---

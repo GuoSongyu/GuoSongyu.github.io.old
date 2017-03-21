@@ -1,11 +1,13 @@
 ---
 layout: page
-title: 标签列表 
+title: Tags 
+
 ---
+
 <div class="page-content wc-container">
 	<div class="post">
-		<h1>标签列表</h1>  
-		<ul class="tags">
+		<h1>Tags</h1>  
+		<ul>
 			{% for tag in site.tags %}
 			<li><a href="{{site.baseurl}}/tag/{{ tag[0] }}">{{ tag[0] }}</a></li>
 			{% endfor %}

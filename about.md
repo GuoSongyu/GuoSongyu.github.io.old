@@ -4,5 +4,5 @@ title: About
 
 ---
 
-# 关于自己
-...有空再写 ;)
+# Some info 
+...about how cool you are ;)

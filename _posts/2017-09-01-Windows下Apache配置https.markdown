@@ -2,7 +2,7 @@
 layout: post
 title:  "Windows下Apache配置https"
 date:   2017-9-1 21:25:54 +0800
-tags: 杂项
+tags: 杂谈
 description: 从申请证书到搭建成功，记录在Windows环境搭建https的过程
 ---
 

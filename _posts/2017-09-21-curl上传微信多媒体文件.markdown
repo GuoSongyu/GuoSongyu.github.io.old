@@ -73,3 +73,5 @@ $res = httpPost($url,$data);
 ?>
 <% Endhighlight %>
 
+
+其实就是不同版本中curl中的用法不同，发现之后在此记录下来，方便查阅
